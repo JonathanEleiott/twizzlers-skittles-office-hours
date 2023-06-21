@@ -1,0 +1,12 @@
+body {
+  background-color: black;
+  color: lime;
+}
+
+.unlink {
+  pointer-events: none;
+}
+
+#title {
+  background-color: azure;
+}
